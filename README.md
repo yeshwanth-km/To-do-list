@@ -9,3 +9,5 @@ HTML
 CSS
 <br>
 JAVASCRIPT
+<br>
+It can perform add,edit,delete etc. operations.
